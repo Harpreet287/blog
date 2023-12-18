@@ -1,0 +1,47 @@
+baseURL: "https://harpreet287.github.io/"
+languageCode: "en-us"
+title: "Harpreet's blog"
+theme: "hugo-book"
+
+params:
+  BookTheme: "dark"
+  BookToC: true
+  BookSearch: true
+  BookComments: true
+  BookPortableLinks: true
+  BookRepo: "https://github.com/yourusername/your-repo"
+  BookEditPath: "/Users/harpreetsingh/Desktop/blog/content"
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    contentDir: "content/en"
+
+  ru:
+    languageName: "Russian"
+    weight: 2
+    contentDir: "content/ru"
+
+  zh:
+    languageName: "Chinese"
+    weight: 3
+    contentDir: "content/zh"
+
+menu:
+  main:
+    - identifier: "blog"
+      name: "Blog"
+      url: "/blog/"
+      weight: 1
+
+    - identifier: "page"
+      name: "Pages"
+      contentDir: "content/page"
+      url: "/pages/"
+      weight: 2
+
+    - identifier: "menu"
+      name: "Menu"
+      url: "/menu/"
+      weight: 3

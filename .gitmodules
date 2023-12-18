@@ -1,3 +1,6 @@
 [submodule "themes/hugo-book"]
 	path = themes/hugo-book
 	url = https://github.com/alex-shpak/hugo-book
+[submodule "public"]
+	path = public
+	url = https://github.com/Harpreet287/Harpreet287.github.io.git
