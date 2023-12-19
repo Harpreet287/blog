@@ -4,7 +4,6 @@ date: '2023-12-10T18:48:45+05:30'
 author: 'Harpreet Singh'
 description: 'Embarking on a Journey into the World of Computing!'
 tags: ['Hello', 'About', 'Tech Enthusiast']
-
 ---
 
 # Greetings! 👋
