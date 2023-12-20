@@ -22,6 +22,7 @@ $$
 NewRating &= OldRating + K \cdot (actual - expected) \tag{i} \\
 \end{align*}
 $$
+
 where $K$=10
 
 
