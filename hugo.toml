@@ -3,6 +3,5 @@ languageCode = 'en-us'
 title = "Harpreet Singh"
 theme = 'hugo-book'
 
-# [services]
-#  [services.disqus]
-#   shortname = 'your-disqus-shortname'
+[params]
+  goatcounter = 'rollinghash'
