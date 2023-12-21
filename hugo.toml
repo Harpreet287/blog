@@ -3,5 +3,6 @@ languageCode = 'en-us'
 title = "Harpreet Singh"
 theme = 'hugo-book'
 
-[params]
-  goatcounter = 'rollinghash'
+[Params]
+  [Params.goatcounter]
+    code = "rollinghash"
